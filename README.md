@@ -48,7 +48,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-Open your browser to: **http://127.0.0.1:7860**
+Open your browser to: **[http://127.0.0.1:7860](https://huggingface.co/spaces/EbiAraz/RAG-PDF-Project)**
 
 ### Option 2: HuggingFace Spaces (Cloud)
 
