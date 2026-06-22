@@ -119,4 +119,6 @@ with gr.Blocks(title='RAG PDF Assistant') as demo: # type: ignore
 
 
 if __name__ == '__main__':
-    demo.launch(server_name='127.0.0.1', share=False, debug=False, theme=gr.themes.Soft())
+    is_space = bool(os.getenv('SPACE_ID'))
+    server_name = '0.0.0.0' if is_space else '127.0.0.1'
+    demo.launch(server_name=server_name, share=False, debug=False)
