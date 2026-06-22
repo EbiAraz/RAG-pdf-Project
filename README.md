@@ -14,6 +14,10 @@ A production-ready **Retrieval Augmented Generation (RAG)** system for interacti
 
 **🌟 Hosted on HuggingFace Spaces** | **📦 Models from HuggingFace Hub** | **⚡ Production Ready**
 
+## Live UI
+
+Use the app directly here: [RAG PDF Assistant Web Interface](https://huggingface.co/spaces/EbiAraz/RAG-PDF-Project)
+
 ---
 
 ## 🎯 Features
