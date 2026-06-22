@@ -16,7 +16,9 @@ A production-ready **Retrieval Augmented Generation (RAG)** system for interacti
 
 ## Live UI
 
-Use the app directly here: [RAG PDF Assistant Web Interface](https://ebiaraz-rag-pdf-project.hf.space)
+Live app (running): [Open RAG PDF Assistant](https://ebiaraz-rag-pdf-project.hf.space)
+
+[![Open in Hugging Face Space](https://img.shields.io/badge/HuggingFace-Live%20UI-yellow)](https://ebiaraz-rag-pdf-project.hf.space)
 
 Space page: [Hugging Face Space Repository](https://huggingface.co/spaces/EbiAraz/RAG-PDF-Project)
 
