@@ -3,7 +3,7 @@
 ## 🚀 Running the Application
 
 The application is already running! Access it here:
-- **Web UI**: http://127.0.0.1:7860
+- **Web UI**: https://huggingface.co/spaces/EbiAraz/RAG-PDF-Project
 
 ## 📋 Features
 
