@@ -1,0 +1,7 @@
+sentence-transformers
+faiss-cpu
+transformers
+pypdf
+numpy
+gradio
+sentencepiece
